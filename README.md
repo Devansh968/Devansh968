@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://twitter.com/@devansh_7870" target="blank"><img src="https://img.shields.io/twitter/follow/@devansh_7870?logo=twitter&style=for-the-badge" alt="@devansh_7870" /></a> </p>
 
-           🌱 I’m currently learning **data structures and algorithms**
+-🌱 I’m currently learning **data structures and algorithms**
 
--          💬 Ask me about **AWS ,C++**
+-💬 Ask me about **AWS ,C++**
 
--          📫 How to reach me **devanshpathak2012@gmail.com**
+-📫 How to reach me **devanshpathak2012@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
