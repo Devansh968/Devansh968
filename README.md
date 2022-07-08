@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **devanshpathak2012@gmail.com**
 
-- ⚡ Fun fact **:)
+- ⚡ Fun fact :)
 
 
 <h3 align="left">❤ Connect with me:</h3>
