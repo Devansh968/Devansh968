@@ -78,7 +78,7 @@
 ## 🔥 Streak stats
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Git Hub Strea" alt="Git Hub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bansalmukul-cse&theme=monokai-metallian&hide_border=false"/>
+    <img title="🔥 Git Hub Strea" alt="Git Hub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Devansh968&theme=monokai-metallian&hide_border=false"/>
   </a>
 </p>
 &nbsp;  &nbsp;
@@ -86,7 +86,7 @@
 <br/>
 <br/>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalmukul-cse&theme=dark&show_icons=true&locale=en&layout=compact" alt="Devansh968" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Devansh968&theme=dark&show_icons=true&locale=en&layout=compact" alt="Devansh968" /></p>
 <br/>
 <br/>
 <br/>
