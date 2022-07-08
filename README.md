@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **devanshpathak2012@gmail.com**
 
-- ⚡ Fun fact **I think I am funny*
+- ⚡ Fun fact **![ImADeveloperCraigDennisFreecodecampGIF](https://user-images.githubusercontent.com/90167731/177946499-ac932d60-5c90-4cc0-8083-29794f068796.gif)
+
 
 <h3 align="left">❤ Connect with me:</h3>
 <p align="left">
