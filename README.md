@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Keen Learner+with+a+;passion+of+programming+and+;&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22"></a>
 </p>
 
-- 🔭 I’m currently working on **delivering Application to any user **
+- 🔭 I’m currently working on **OpenAI use cases **
 
 - 🌱 I’m currently learning **Data structure And Algorithms**
 
