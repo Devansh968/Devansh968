@@ -1,17 +1,6 @@
 <h2 align="center">
   Hi, I'm Devanshu Pathak
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Keen+Learner+with+a+passion+for+programming+and+;OpenAI+enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=406df7&vCenter=true&size=22">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://your-image-url-here.jpg" alt="Devanshu Pathak">
-</p>
 
 - 🔭 I’m currently working on OpenAI use cases.
 
