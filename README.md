@@ -17,19 +17,9 @@
 
 - 📫 How to reach me **devanshpathak2012@gmail.com**
 
-- ⚡ Fun fact :)
-
-
 <h3 align="left">❤ Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devansh-pathak-861167191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul-bansal-47632b197" height="30" width="40" /></a>
-   &nbsp;  &nbsp;
-<a href="https://www.instagram.com/devansh_7870/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukulbansal5555" height="30" width="40" /></a>
-   &nbsp;  &nbsp;
-<a href="hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bansalmukul747" height="30" width="40" /></a>
-   &nbsp;  &nbsp;
-<a href="https://leetcode.com/Devansh968/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Devansh968" height="30" width="40" /></a>
-   &nbsp;  &nbsp;
+<a href="https://www.linkedin.com/in/devansh-pathak-861167191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Devansh-pathak" height="30" width="40" /></a> 
 </p>
 &nbsp;
 
